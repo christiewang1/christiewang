@@ -1788,7 +1788,15 @@
 .icon-IcoMoon:before {
   content: "\eb1a";
 }
-
 .icon-envelop:before {
   content: "\e945";
+}
+.icon-database:before {
+  content: "\e964";
+}
+.icon-users:before {
+  content: "\e972";
+}
+.icon-tree:before {
+  content: "\e9bc";
 }
