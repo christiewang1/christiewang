@@ -1789,3 +1789,6 @@
   content: "\eb1a";
 }
 
+.icon-envelop:before {
+  content: "\e945";
+}
